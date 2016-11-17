@@ -1,0 +1,60 @@
+
+body{background-image:url(back2.jpg);text-align:center;}
+p{ font-size : 30px; }
+#sidebar{
+
+ font-size : 30px;
+}
+#content{
+ float:left;
+border : blue;
+}
+#link{
+
+
+width :50px;
+height : 50px;
+padding:100px;
+ 
+ float:left;
+ font-size :30px;
+}
+#foot{
+
+text-align:center;
+float:left;
+}
+div#F1
+{
+background-image:url(back.jpg);
+position:relative; 
+  top:30px; 
+  left:40%; 
+ font-size : 30px;
+
+text-align:center;
+}
+form{
+
+text-align:center;
+  float:left;
+  width :600px;
+}
+table{
+background-image:url(back.jpg);
+border : blue solid;
+}
+td{
+border : blue solid;
+}
+table{
+text-align:center;
+border : blue solid;
+}
+#big
+{
+text-align:center;
+width :600px;
+font-size : 50px;
+left:40%; 
+}

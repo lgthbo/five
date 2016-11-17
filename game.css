@@ -1,0 +1,123 @@
+body
+{
+	background-image: url('back2.jpg');
+	text-align: center;
+   
+}
+body{background-image:url(back2.jpg);text-align:center;}
+
+p{ font-size : 30px; }
+#sidebar{
+
+ font-size : 30px;
+}
+#content{
+ float:left;
+border : blue;
+}
+#link{
+
+width :50px;
+height : 50px;
+padding:100px;
+ 
+ float:left;
+ font-size :30px;
+}
+#foot{
+
+text-align:center;
+float:left;
+}
+div#F1
+{
+background-image:url(back.jpg);
+position:relative; 
+  top:30px; 
+  left:40%; 
+ font-size : 30px;
+
+text-align:center;
+}
+div#F1
+{
+background-image:url(back.jpg);
+position:relative; 
+  top:30px; 
+  left:40%; 
+ font-size : 30px;
+
+text-align:center;
+}
+form{
+background-image:url(back.jpg);
+text-align:center;
+  float:left;
+  width :600px;
+}
+button#again
+{
+font-size:large;
+width :200px;
+height :100px;
+	
+}
+p#before
+{
+
+width:200px;
+height:200px;
+
+}
+p#blackwin
+{
+color:white;
+background-color:black;
+width:200px;
+height:200px;
+}
+p#whitewin
+{
+color:black;
+background-color:white;
+width:200px;
+height:200px;
+}
+div#container
+{
+	width:500px;
+height:500px;
+text-align:center;
+margin-left: auto;
+margin-right: auto;
+border:black double;
+padding-bottom: 0px;
+padding-left: 0px;
+}
+div#answer
+{
+text-align:center;
+
+margin-left: auto;
+margin-right: auto;
+}
+div#btn
+{
+text-align:center;
+margin-left: auto;
+margin-right: auto;
+}
+button.inn
+{
+background-image: url('not.jpg');
+float:left;
+width:50px;
+height:50px;
+
+margin:0px;
+}
+button.inn:nth-child(10n+1)
+{
+clear:both;
+
+}
